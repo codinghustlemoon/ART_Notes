@@ -11,25 +11,6 @@ find . -type d -exec sh -c 'for d; do touch "$d/directsubfolder.txt"; done' _ {}
 find . -type d -exec sh -c 'for d; do touch "$d/manualnotation.md"; done' _ {} +
 ```
 
-To create directdubfolder.txt in all folders use in git bash 
-```bash
-find . -type d -exec sh -c 'for d;
-	if test -f "directsubfolder.txt"; then
-		echo "directsubfolder.txt exists"
-	else
-		do touch "$d/directsubfolder.txt" 
-	fi; done' _ {} +
-```
-To create manualnotation.txt in all folders use in git bash 
-```bash
-find . -type d -exec sh -c 'for d;
-	if test -f "manualnotation.txt"; then
-		echo "manualnotation.txt exists"
-	else
-		do touch "$d/manualnotation.txt" 
-	fi; done' _ {} +
-```
-
 ##### Editing Folder
 Remember to name the folder that already exists by using gitbash, git mv foldername newfoldername to properly change the foldername so that git later recognises the change. 
 
