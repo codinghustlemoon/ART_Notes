@@ -1,0 +1,11 @@
+[[Note_Proper_Arm_Pivot_Use]]
+[[Note_Ghosting_Line]]
+[[Note_Consistent_Straight_Line]]
+[[Note_Consistent_Curved_Line]]
+[[Note_Extruding_Double]]
+[[Note_Divide_Half]]
+[[Note_Dotted_Line]]
+[[Note_Duplicate_Line]]
+#Folder/Category
+#Folder/Color/Blue
+#Folder/Subcolor/2

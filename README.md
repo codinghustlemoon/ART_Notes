@@ -4,6 +4,13 @@ tags: NonImportant
 ##### Creating New Folder
 Make sure to add a directsubfolder.txt and a manualnotation.md file. the directsubfolder.txt is used by the bash script to automatically name what folders the currentfolder has, and to give automatic tags. The manualnotation.md file is used by the bash script to add any tags or other things to the foldername.md. Also make sure that there is a .md file that is the same name as the current folder name. When making a folder name make sure to name it with number_foldername.
 
+```bash
+find . -type d -exec sh -c 'for d; do touch "$d/directsubfolder.txt"; done' _ {} +
+```
+```bash
+find . -type d -exec sh -c 'for d; do touch "$d/manualnotation.md"; done' _ {} +
+```
+
 To create directdubfolder.txt in all folders use in git bash 
 ```bash
 find . -type d -exec sh -c 'for d;
@@ -44,20 +51,11 @@ can edit tag:#RootOrigin and add /folderstructure to reduce search to certain br
 ```
 
 ##### Use with Github
-in the DATABASE Setting it up initially
-```
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/codinghustlemoon/ART_Notes.git
-git push -u origin main
-```
 
 for updating and pushing current
 ```
 git pull
-git add all
+git add **
 git commit "message"
 git push
 ```
