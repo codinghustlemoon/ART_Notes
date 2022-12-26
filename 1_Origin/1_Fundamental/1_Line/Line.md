@@ -1,4 +1,4 @@
-gin/#RootFundamental/Line
+#RootOrigin/Fundamental/Line
 #### Links
 ##### Parent Links
 [[Fundamental]]

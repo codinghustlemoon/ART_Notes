@@ -68,7 +68,7 @@ find . -path '*/*/*' -type f -print -exec sh -c '
 	   filetitle="### $filename"
 
 	   echo "$filetitle" > "$f"
-	   echo "$filepath" | cut -c 46- | sed 's/[1-9]_/#Root/' | sed 's/[1-9]_//g' | cut -c2- > "$f"
+	   echo "$filepath" | cut -c 41- | sed 's/[1-9]_/#Root/' | sed 's/[1-9]_//g' | cut -c2- > "$f"
 	   echo "#### Links" >> "$f"
 
 	   echo "##### Parent Links" >> "$f"

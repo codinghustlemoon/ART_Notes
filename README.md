@@ -36,7 +36,7 @@ can edit tag:#RootOrigin and add /folderstructure to reduce search to certain br
 for updating and pushing current
 ```
 git pull
-git add **
-git commit "message"
+git add *
+git commit -m "message"
 git push
 ```
