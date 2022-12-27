@@ -1,12 +1,12 @@
-#RootOrigin/Anatomy
+#RootOrigin/Fundamental/Light_And_Shadow
 #### Links
 ##### Parent Links
-[[Origin]]
+[[Fundamental]]
 ##### Children Links
 #Folder/Reference
 #Folder/Color/Green
 #Folder/Subcolor/1
 ##### Manual Notation
-#Folder/Subcolor/1
+#Folder/Subcolor/7
 #HasNote
 ##### Notes

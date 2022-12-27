@@ -1,5 +1,8 @@
-[[Line]]
-[[Plane]]
+[[Perspective]]
+[[Light_And_Shadow]]
+[[Color_Theory]]
+[[Observation]]
+[[Referencing]]
 #Folder/Category
 #Folder/Color/Blue
 #Folder/Subcolor/2

@@ -1,12 +1,12 @@
-#RootOrigin/Anatomy
+#RootOrigin/Fundamental/Perspective/Terminology
 #### Links
 ##### Parent Links
-[[Origin]]
+[[Perspective]]
 ##### Children Links
 #Folder/Reference
 #Folder/Color/Green
 #Folder/Subcolor/1
 ##### Manual Notation
-#Folder/Subcolor/1
 #HasNote
 ##### Notes
+#Folder/Subcolor/3

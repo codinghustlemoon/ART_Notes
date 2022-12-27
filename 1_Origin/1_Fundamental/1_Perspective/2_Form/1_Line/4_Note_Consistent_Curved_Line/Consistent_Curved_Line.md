@@ -21,7 +21,7 @@ banner_height: 200
 [[Ghosting_Line]]
 
 ###### **_Current Skill Level_**
-**Beginner**-Novice-Intermediate-Professional-Mastery
+Beginner-**Novice**-Intermediate-Professional-Mastery
 
 ###### **_Practice Guideline_**
 Exercise 1: Super Imposed Lines

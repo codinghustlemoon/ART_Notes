@@ -1,13 +1,14 @@
-#RootOrigin/Fundamental/Plane
+#RootOrigin/Fundamental/Perspective
 #### Links
 ##### Parent Links
 [[Fundamental]]
 ##### Children Links
-[[Note_Plane]]
+[[Terminology]]
+[[Form]]
 #Folder/Category
 #Folder/Color/Blue
 #Folder/Subcolor/2
 ##### Manual Notation
+#Folder/Subcolor/7
 #HasNote
 ##### Notes
-[[BasicPlane]]

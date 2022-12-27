@@ -1,7 +1,7 @@
-#RootOrigin/Fundamental/Line
+#RootOrigin/Fundamental/Perspective/Form/Line
 #### Links
 ##### Parent Links
-[[Fundamental]]
+[[Form]]
 ##### Children Links
 [[Note_Proper_Arm_Pivot_Use]]
 [[Note_Ghosting_Line]]
