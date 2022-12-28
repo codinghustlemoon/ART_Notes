@@ -1,3 +1,4 @@
-#Folder/Reference
-#Folder/Color/Green
-#Folder/Subcolor/1
+[[Point_of_View]]
+#Folder/Category
+#Folder/Color/Blue
+#Folder/Subcolor/2

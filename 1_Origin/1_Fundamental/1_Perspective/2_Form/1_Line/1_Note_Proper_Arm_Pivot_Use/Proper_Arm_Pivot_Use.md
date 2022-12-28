@@ -1,5 +1,5 @@
 ---
-tags: IsNote RootOrigin/Educative/Fundamental/Line DrawingNote
+tags: IsNote RootOrigin/Fundamental/Form/Line AtomNote
 banner: "![[Illustration.gif.gif]]"
 banner_x: 0
 banner_y: 0.34

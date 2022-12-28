@@ -3,10 +3,11 @@
 ##### Parent Links
 [[Perspective]]
 ##### Children Links
-#Folder/Reference
-#Folder/Color/Green
-#Folder/Subcolor/1
+[[Point_of_View]]
+#Folder/Category
+#Folder/Color/Blue
+#Folder/Subcolor/2
 ##### Manual Notation
 #HasNote
+#folder/subcolor/3
 ##### Notes
-#Folder/Subcolor/3

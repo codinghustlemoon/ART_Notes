@@ -1,5 +1,5 @@
 ---
-tags: IsNote RootOrigin/Educative/Fundamental/Plane DrawingNote
+tags: IsNote RootOrigin/Fundamental/Form/Plane AtomNote
 banner: "![[Screenshot 2022-08-19 001153.jpg]]"
 banner_x: 0
 banner_y: 0.34
