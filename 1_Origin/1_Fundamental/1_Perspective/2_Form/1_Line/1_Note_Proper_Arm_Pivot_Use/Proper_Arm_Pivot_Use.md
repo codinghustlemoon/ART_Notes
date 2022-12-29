@@ -1,5 +1,5 @@
 ---
-tags: IsNote RootOrigin/Fundamental/Form/Line AtomNote
+tags: IsNote AtomNote
 banner: "![[Illustration.gif.gif]]"
 banner_x: 0
 banner_y: 0.34
@@ -25,3 +25,4 @@ For all line work, brush work, marksmenwork keep in mind your use of arm and try
 ###### **_Links And Tags_**
 #Line #Passive_Skill #Tier/A
 Referenced from : https://drawabox.com/lesson/1/2
+#RootOrigin/Fundamental/Perspective/Form/Line/Note_Proper_Arm_Pivot_Use

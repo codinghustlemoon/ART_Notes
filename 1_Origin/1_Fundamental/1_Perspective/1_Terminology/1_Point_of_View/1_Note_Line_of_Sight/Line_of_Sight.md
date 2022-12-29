@@ -1,5 +1,5 @@
 ---
-tags: IsNote RootOrigin/Educative/Fundamental/Line AtomNote 
+tags: IsNote AtomNote 
 banner: "![[Screenshot 2022-12-27 142110.jpg]]"
 banner_x: 0
 banner_y: 0.34
@@ -25,3 +25,4 @@ When looking at references, or for example use a camera or google view, or some 
 ###### **_Links And Tags_**
 #Viewing_Position #Terminology #Perspective #Theory #Tier/
 Referenced from : Scott Robertson How to Draw
+#RootOrigin/Fundamental/Perspective/Terminology/Point_of_View/Note_Line_of_Sight

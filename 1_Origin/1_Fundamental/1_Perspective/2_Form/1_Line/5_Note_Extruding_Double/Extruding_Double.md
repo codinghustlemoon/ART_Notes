@@ -1,5 +1,5 @@
 ---
-tags: IsNote RootOrigin/Fundamental/Form/Line AtomNote
+tags: IsNote AtomNote
 banner: "![[Screenshot 2022-07-29 202540.jpg]]"
 banner_x: 0
 banner_y: 0.34
@@ -30,3 +30,4 @@ An exercise you can try is star with a straight line and next to that line try t
 ###### **_Links And Tags_**
 #Line #Passive_Skill #Tier/C/Plus
 
+#RootOrigin/Fundamental/Perspective/Form/Line/Note_Extruding_Double

@@ -1,5 +1,5 @@
 ---
-tags: IsNote RootOrigin/Educative/Fundamental/Line AtomNote 
+tags: IsNote AtomNote 
 banner: "![[Screenshot 2022-12-27 142159.jpg]]"
 banner_x: 0
 banner_y: 0.142
@@ -16,3 +16,4 @@ Attempt to take pictures, from low angles, high angles, and for various referenc
 ###### **_Links And Tags_**
 #Viewing_Position #Terminology #Perspective #Theory #Tier/
 Referenced from : Scott Robertson How to Draw
+#RootOrigin/Fundamental/Perspective/Terminology/Point_of_View/Note_Station_Point

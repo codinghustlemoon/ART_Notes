@@ -1,5 +1,5 @@
 ---
-tags: IsNote RootOrigin/Fundamental/Form/Line AtomNote
+tags: IsNote AtomNote
 banner: "![[ghosting lines.gif]]"
 banner_x: 0
 banner_y: 0.34
@@ -35,3 +35,4 @@ Some potential landmarks to keep in mind is to focus on a steady trajectory, sta
 ###### **_Links And Tags_**
 #Line #Passive_Skill #Tier/B
 Referenced from: https://drawabox.com/lesson/1/2/hoverhand
+#RootOrigin/Fundamental/Perspective/Form/Line/Note_Ghosting_Line

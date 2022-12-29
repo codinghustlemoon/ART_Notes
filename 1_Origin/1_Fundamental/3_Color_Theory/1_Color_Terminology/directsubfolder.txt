@@ -1,0 +1,6 @@
+[[Color_Name]]
+[[Color_Aspect]]
+[[Color_Term]]
+#Folder/Category
+#Folder/Color/Blue
+#Folder/Subcolor/2

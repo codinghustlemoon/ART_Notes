@@ -1,5 +1,5 @@
 ---
-tags: IsNote RootOrigin/Fundamental/Form/Line AtomNote
+tags: IsNote AtomNote
 banner: "![[Screenshot 2022-07-25 230718.jpg]]"
 banner_x: 0
 banner_y: 0.34
@@ -38,3 +38,4 @@ Another advanced exercise, have straight lines angled at random degrees from eac
 
 ###### **_Links And Tags_**
 #Line #Passive_Skill #Tier/A/plus
+#RootOrigin/Fundamental/Perspective/Form/Line/Note_Consistent_Curved_Line

@@ -1,5 +1,5 @@
 ---
-tags: IsNote RootOrigin/Educative/Fundamental/Line AtomNote 
+tags: IsNote AtomNote 
 banner: "![[groundPlaneExampleBanner.jpg]]"
 banner_x: 0
 banner_y: 0.204
@@ -15,3 +15,4 @@ The positoin and direction where the photo was taken needs to be known, this cou
 ###### **_Links And Tags_**
 #Viewing_Position #Terminology #Perspective #Theory #Tier/
 Referenced from : Scott Robertson How to Draw
+#RootOrigin/Fundamental/Perspective/Terminology/Point_of_View/Note_Ground_Plane

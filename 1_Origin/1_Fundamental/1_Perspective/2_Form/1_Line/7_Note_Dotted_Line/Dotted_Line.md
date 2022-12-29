@@ -1,5 +1,5 @@
 ---
-tags: IsNote RootOrigin/Fundamental/Form/Line AtomNote
+tags: IsNote AtomNote
 banner: "![[Screenshot 2022-07-29 201831.jpg]]"
 banner_x: 0
 banner_y: 0.34
@@ -30,3 +30,4 @@ Experiment with changing your brushwork and dot length, dot size, gap lengths et
 ###### **_Links And Tags_**
 #Line #Passive_Skill #Tier/C 
 
+#RootOrigin/Fundamental/Perspective/Form/Line/Note_Dotted_Line

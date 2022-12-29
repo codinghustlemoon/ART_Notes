@@ -1,5 +1,5 @@
 ---
-tags: IsNote RootOrigin/Fundamental/Form/Plane AtomNote
+tags: IsNote AtomNote
 banner: "![[Screenshot 2022-08-19 001153.jpg]]"
 banner_x: 0
 banner_y: 0.34
@@ -24,4 +24,4 @@ Beginner-**Novice**-Intermediate-Professional-Mastery
 
 ###### **_Links And Tags_**
 #Line #Passive_Skill #Tier/A/minus
-Referenced from: 
+Referenced from: #RootOrigin/Fundamental/Perspective/Form/Plane/Note_Plane

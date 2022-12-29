@@ -7,5 +7,6 @@
 [[Ground_Plane]]
 [[Station_Point]]
 [[Picture_Plane]]
-[[Vision_Ray]]
 [[General_Point_of_View]]
+
+#RootOrigin/Fundamental/Perspective/Terminology/3D_Space

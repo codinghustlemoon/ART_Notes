@@ -1,5 +1,5 @@
 ---
-tags: IsNote RootOrigin/Fundamental/Form/Line AtomNote
+tags: IsNote AtomNote
 banner: "![[Screenshot 2022-07-23 234920.jpg]]"
 banner_x: 0
 banner_y: 0.34
@@ -39,3 +39,4 @@ Another advanced exercise, have a point and attempt to have straight lines pass 
 
 ###### **_Links And Tags_**
 #Line #Passive_Skill #Tier/A
+#RootOrigin/Fundamental/Perspective/Form/Line/Note_Consistent_Straight_Line
