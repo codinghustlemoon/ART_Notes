@@ -1,0 +1,4 @@
+[[Note_Color_Chroma_Definition]]
+#Folder/Category
+#Folder/Color/Blue
+#Folder/Subcolor/2

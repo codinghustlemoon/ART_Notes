@@ -3,9 +3,15 @@
 ##### Parent Links
 [[Color_Theory]]
 ##### Children Links
-#Folder/Reference
-#Folder/Color/Green
-#Folder/Subcolor/1
+[[Monochromatic_Scheme]]
+[[Analogous_Scheme]]
+[[Complementary_Scheme]]
+[[Split_Complementary_Scheme]]
+[[Triadic_Scheme]]
+[[Tetradic_Scheme]]
+#Folder/Category
+#Folder/Color/Blue
+#Folder/Subcolor/2
 ##### Manual Notation
 #Folder/Subcolor/3
 #HasNote

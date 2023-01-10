@@ -3,9 +3,12 @@
 ##### Parent Links
 [[Color_Theory]]
 ##### Children Links
-#Folder/Reference
-#Folder/Color/Green
-#Folder/Subcolor/1
+[[Color_Wheel]]
+[[Color_System]]
+[[Simultaneous_Contrast]]
+#Folder/Category
+#Folder/Color/Blue
+#Folder/Subcolor/2
 ##### Manual Notation
 #Folder/Subcolor/3
 #HasNote

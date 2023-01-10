@@ -1,0 +1,6 @@
+[[Neutral_Color]]
+[[Warm_Color]]
+[[Cool_Color]]
+#Folder/Category
+#Folder/Color/Blue
+#Folder/Subcolor/2

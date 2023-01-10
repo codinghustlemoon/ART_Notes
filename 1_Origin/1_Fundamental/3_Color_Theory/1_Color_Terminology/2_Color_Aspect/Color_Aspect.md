@@ -3,10 +3,24 @@
 ##### Parent Links
 [[Color_Terminology]]
 ##### Children Links
-#Folder/Reference
-#Folder/Color/Green
-#Folder/Subcolor/1
+[[Color_Value]]
+[[Color_Hue]]
+[[Color_Chroma]]
+[[Color_Tint]]
+[[Color_Shade]]
+[[Color_Tone]]
+[[Color_Saturation]]
+[[Color_Luminance]]
+#Folder/Category
+#Folder/Color/Blue
+#Folder/Subcolor/2
 ##### Manual Notation
 #Folder/Subcolor/3
 #HasNote
 ##### Notes
+
+
+
+
+
+

@@ -1,0 +1,7 @@
+[[Head_Area]]
+[[Upper_Limbs_Area]]
+[[Lower_Limbs_Area]]
+[[Main_Body_Area]]
+#Folder/Category
+#Folder/Color/Blue
+#Folder/Subcolor/2

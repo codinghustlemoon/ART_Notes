@@ -3,9 +3,13 @@
 ##### Parent Links
 [[Color_Terminology]]
 ##### Children Links
-#Folder/Reference
-#Folder/Color/Green
-#Folder/Subcolor/1
+[[Local_Color]]
+[[Color_Temperature]]
+[[Complementary_Color]]
+[[Pigment]]
+#Folder/Category
+#Folder/Color/Blue
+#Folder/Subcolor/2
 ##### Manual Notation
 #Folder/Subcolor/3
 #HasNote

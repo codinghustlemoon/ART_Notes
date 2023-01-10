@@ -3,10 +3,15 @@
 ##### Parent Links
 [[Color_Terminology]]
 ##### Children Links
-#Folder/Reference
-#Folder/Color/Green
-#Folder/Subcolor/1
+[[Color_Hex_Code]]
+[[Primary_Color]]
+[[Secondary_Color]]
+[[Tertiary_Color]]
+#Folder/Category
+#Folder/Color/Blue
+#Folder/Subcolor/2
 ##### Manual Notation
-#Folder/Subcolor/3
+
 #HasNote
 ##### Notes
+

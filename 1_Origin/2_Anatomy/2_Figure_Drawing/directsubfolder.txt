@@ -1,0 +1,4 @@
+[[Figure_Proportion]]
+#Folder/Category
+#Folder/Color/Blue
+#Folder/Subcolor/2

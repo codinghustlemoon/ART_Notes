@@ -1,0 +1,7 @@
+[[Note_Secondary_Color_Definition]]
+[[Orange]]
+[[Purple]]
+[[Green]]
+#Folder/Category
+#Folder/Color/Blue
+#Folder/Subcolor/2

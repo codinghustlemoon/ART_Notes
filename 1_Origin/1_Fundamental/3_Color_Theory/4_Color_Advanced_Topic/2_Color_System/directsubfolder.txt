@@ -1,0 +1,6 @@
+[[RGB_System]]
+[[CMYK_System]]
+[[HSL_System]]
+#Folder/Category
+#Folder/Color/Blue
+#Folder/Subcolor/2

@@ -1,0 +1,7 @@
+[[Note_Primary_Color_Definition]]
+[[Red]]
+[[Yellow]]
+[[Blue]]
+#Folder/Category
+#Folder/Color/Blue
+#Folder/Subcolor/2
